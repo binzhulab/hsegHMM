@@ -5,7 +5,7 @@ Installation:
 
 To install from Github, use the devtools R package:
 
-devtools::install_github("wheelerb/hsegHMM/source", build_vignettes=TRUE)
+devtools::install_github("binzhulab/hsegHMM/source", build_vignettes=TRUE)
 
 Alternatively, download the package and follow the steps below.
 
